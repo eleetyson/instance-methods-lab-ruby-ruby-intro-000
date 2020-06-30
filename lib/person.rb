@@ -6,4 +6,5 @@ class Person
   #walk method
   def walk
     puts "The Person is walking"
+  end
 end
