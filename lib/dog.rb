@@ -1,8 +1,8 @@
 class Dog
   #bark method
-  def Bark
+  def bark
     puts "Woof!"
   end
   #sit method
-  def Sit
+  def sit
 end
